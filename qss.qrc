@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qss">
+        <file alias="def-style">style/default.css</file>
+        <file alias="te-style">style/textedit.css</file>
+    </qresource>
+</RCC>

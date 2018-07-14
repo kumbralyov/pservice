@@ -1,0 +1,23 @@
+table {
+	border-style: solid; 
+	border-collapse: collapse; 
+	border-color: #000; 
+	font-family: 'Times New Roman'; 
+	font-size: 11pt;
+}
+
+tr.top {
+	background-color: #ddd; 
+	font-weight: bold; 
+	text-align: center;
+}
+
+tr.top2 {
+	background-color: #eee; 
+	font-weight: bold; 
+	text-align: center;
+}
+
+tr.footer {
+	font-weight:bold;
+}

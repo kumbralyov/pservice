@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/docs">
+        <file alias="pko-doc">docs/pko.docx</file>
+        <file alias="pko-html">docs/pko.html</file>
+        <file alias="to-doc">docs/to.docx</file>
+        <file alias="to-html">docs/to.html</file>
+        <file alias="tic-doc">docs/tic.docx</file>
+        <file alias="tic-html">docs/tic.html</file>
+    </qresource>
+</RCC>
